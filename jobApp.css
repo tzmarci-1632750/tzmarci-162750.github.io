@@ -1,0 +1,97 @@
+body{
+	background-image: url(http://saxony-blue.com/data/out/25/5338225-white-background-images.jpg);
+	background-size: cover;
+}
+
+label{
+	font-family: "Verdana";
+	font-size: 22px;
+	margin-left: 150px;
+	line-height: 1.5;
+	font-weight: bold;
+	color: white;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+img{
+	vertical-align: middle;
+}
+
+fieldset{
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+	background: linear-gradient(#d9fcf3, #9bffe6);
+	border-width: 3px;
+	border-radius: 3px;
+}
+
+legend{
+	font-family: "Garamond";
+	font-size: 24px;
+	font-weight: bold;
+}
+
+h2{
+	font-family: "Arial";
+	color: white;
+	font-size: 35px;
+	font-weight: bold;
+	text-align: center;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+ul {
+	font-family: "Garamond";
+	font-size: 20px;
+	margin-left: 200px;
+}
+
+input{
+	margin-left: 20px;
+	font-family: "Garamond";
+	font-size: 20px;
+	
+}
+
+li {
+	font-family: "Garamond";
+	font-size: 20px;
+	padding: 3px;
+}
+
+#fillbox{
+	width: 500px;
+	margin-right: 300px;
+	margin-bottom: 5px;
+	float: right;
+	padding: 1px;
+}
+
+
+textarea{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-family: "Garamond";
+	font-size: 20px;
+	margin-left: 200px;
+	width: 450px;
+	padding: 2px;
+}
+
+select{
+	margin-right:350px;
+	width: 400px;
+	padding: 2px;
+	margin-bottom: 1px;
+	font-family: "Garamond";
+	font-size: 18px;
+	float: right;
+}
+
+table{
+	font-family: "Garamond";
+	margin-left: 50px;
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
